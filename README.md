@@ -1,1 +1,1 @@
-This is the first application I do by using kotlin language. 
+This is the first application I develop using the Kotlin programming language.
